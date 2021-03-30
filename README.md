@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00aeff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-silva-dias-413218176/)](https://www.linkedin.com/in/marcelo-silva-dias-413218176/)
 
-- 💻 I have knowledge in **HTML, CSS, JavaScript and React**
+- 💻 I have knowledge in **HTML, CSS and JavaScript**
 - 📫 How to reach me **marceloobig@outlook.com**
 
 <p align="left">
@@ -15,7 +15,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32"/></p><p 
 </p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
 
 <p align="center">
 
