@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi guys 👋, I'm Marcelo Dias</h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marcelo Dias </h1>
 <h3 align="center">Frontend Jr Developer</h3>
 
 
