@@ -4,10 +4,9 @@
 <h3 align="center"> Development Internr</h3>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00aeff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-silva-dias-413218176/)](https://www.linkedin.com/in/marcelo-silva-dias-413218176/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodiasdev&show_icons=true&theme=highcontrast)
 
 
+<a href="https://www.linkedin.com/in/marcelosilvadias/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">  </a>
 
 - 💻 I have knowledge in **HTML, CSS and JavaScript**
 - 📫 How to reach me **marceloobig@outlook.com**
