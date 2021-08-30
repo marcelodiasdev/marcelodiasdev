@@ -1,10 +1,13 @@
 
 
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marcelo Dias </h1>
-<h3 align="center">Frontend Jr Developer</h3>
+<h3 align="center"> Development Internr</h3>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00aeff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-silva-dias-413218176/)](https://www.linkedin.com/in/marcelo-silva-dias-413218176/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodiasdev&show_icons=true&theme=highcontrast)
+
+
 
 - 💻 I have knowledge in **HTML, CSS and JavaScript**
 - 📫 How to reach me **marceloobig@outlook.com**
