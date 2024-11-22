@@ -18,7 +18,7 @@
 
 ***************
 <h3 align="center" style="margin-top: 32px; color: #BD93F9;">Tecnologias com as quais tenho experiência:</h3>
-<p align="center" style="background-color: #282A36; padding: 10px; border-radius: 8px;">
+<p align="center" style="background-color: #282A36; padding: 16px; border-radius: 8px;">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML" style="color: #BD93F9; margin-right: 16px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS" style="color: #BD93F9; margin-right: 16px;"/>
