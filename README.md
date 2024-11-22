@@ -28,23 +28,23 @@
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/tailwindcss"/>   
   </p>  
 
-  <h3 align="center" style="margin-top: 32px;">Back End</h3>
-  <p align="center">
-    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/nodedotjs/"/> 
-  </p>  
+<h3 align="center" style="margin-top: 32px;">Back End</h3>
+<p align="center">
+  <img height="40" width="40" style="margin-right:16px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg"/> 
+</p>  
 
-  <h3 align="center" style="margin-top: 32px;">Testes</h3>
-  <p align="center"> 
-    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/jest"/>  
-  </p>  
+<h3 align="center" style="margin-top: 32px;">Testes</h3>
+<p align="center"> 
+  <img height="40" width="40" style="margin-right:16px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jest.svg"/>  
+</p>  
 
-  <h3 align="center" style="margin-top: 32px;">Ferramentas</h3>
-  <p align="center">
-    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/figma/"/> 
-    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/jira/"/> 
-    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/git" />  
-    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/visualstudiocode"/>    
-  </p>  
+<h3 align="center" style="margin-top: 32px;">Ferramentas</h3>
+<p align="center">
+  <img height="40" width="40" style="margin-right:16px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg"/> 
+  <img height="40" width="40" style="margin-right:16px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jira.svg"/> 
+  <img height="40" width="40" style="margin-right:16px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" />  
+  <img height="40" width="40" style="margin-right:16px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg"/>    
+</p>  
 </h2>
 
 ***************
