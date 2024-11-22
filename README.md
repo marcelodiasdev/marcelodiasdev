@@ -3,7 +3,7 @@
 
 <p>Iniciei meus estudos em programação aos 26 anos de idade, sempre fui muito fã da área de tecnologia e como ela impacta a vida das pessoas.</p>
 
-<p>Desde 2029 meu foco tem sido o desenvolvimento de software utilizando Javascript, Typescript, Node, React.</p> 
+<p>Desde 2020 meu foco tem sido o desenvolvimento de software utilizando Javascript, Typescript, Node, React.</p> 
 
 <p>Hoje atuou como Desenvolvedor Front End.</p>
 
