@@ -35,25 +35,19 @@
 
 <h3 align="center" style="margin-top: 32px; color: #BD93F9;">Back End</h3>
 <p align="center" style="background-color: #282A36; padding: 10px; border-radius: 8px;">
-  <!-- Node.js com a cor roxa -->
   <img height="40" width="40" style="margin-right:16px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" />
 </p>  
 
 <h3 align="center" style="margin-top: 32px; color: #BD93F9;">Testes</h3>
 <p align="center" style="background-color: #282A36; padding: 10px; border-radius: 8px;">
-  <!-- Jest com a cor roxa -->
   <img height="40" width="40" style="margin-right:16px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jest.svg"/>  
 </p>  
 
 <h3 align="center" style="margin-top: 32px; color: #BD93F9;">Ferramentas</h3>
 <p align="center" style="background-color: #282A36; padding: 10px; border-radius: 8px;">
-  <!-- Figma com a cor roxa -->
   <img height="40" width="40" style="margin-right:16px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg"/> 
-  <!-- Jira com a cor roxa -->
   <img height="40" width="40" style="margin-right:16px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jira.svg"/> 
-  <!-- Git com a cor roxa -->
   <img height="40" width="40" style="margin-right:16px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg"/>  
-  <!-- VSCode com a cor roxa -->
   <img height="40" width="40" style="margin-right:16px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg"/>    
 </p>  
 </h2>
