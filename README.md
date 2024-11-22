@@ -34,13 +34,12 @@
 
 <h3 align="center" style="margin-top: 32px; color: #BD93F9;">Testes</h3>
 <p align="center" style="background-color: #282A36; padding: 10px; border-radius: 8px;">
-  <img height="40" width="40" style="margin-right:16px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jest.svg"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest" style="color: #BD93F9; margin-right: 16px;"/>
 </p>  
 
 <h3 align="center" style="margin-top: 32px; color: #BD93F9;">Ferramentas</h3>
 <p align="center" style="background-color: #282A36; padding: 10px; border-radius: 8px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" style="color: #BD93F9; margin-right: 16px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest" style="color: #BD93F9; margin-right: 16px;"/>
 </p>  
 <
 
