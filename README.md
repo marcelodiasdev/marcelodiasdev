@@ -20,13 +20,13 @@
 <h3 align="center" style="margin-top: 32px; color: #BD93F9;">Tecnologias com as quais tenho experiência:</h3>
 <p align="center" style="background-color: #282A36; padding: 10px; border-radius: 8px;">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="Typescript" title="Typescript" style="color: #BD93F9; margin-right: 16px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Javascript" title="Javascript" style="color: #BD93F9; margin-right: 16px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS" title="ReactJS" style="color: #BD93F9; margin-right: 16px;"/>
-  <img src="https://github.com/up-for-grabs/up-for-grabs.net/assets/139565234/53ea0a94-f08f-422f-8b88-9cee8737c53e" height="40" alt="Next.js" title="Next.js" style="color: #BD93F9; margin-right: 16px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" style="color: #BD93F9; margin-right: 16px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML" style="color: #BD93F9; margin-right: 16px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS" style="color: #BD93F9; margin-right: 16px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Javascript" title="Javascript" style="color: #BD93F9; margin-right: 16px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="Typescript" title="Typescript" style="color: #BD93F9; margin-right: 16px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" style="color: #BD93F9; margin-right: 16px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS" title="ReactJS" style="color: #BD93F9; margin-right: 16px;"/>
+  <img src="https://github.com/up-for-grabs/up-for-grabs.net/assets/139565234/53ea0a94-f08f-422f-8b88-9cee8737c53e" height="40" alt="Next.js" title="Next.js" style="color: #BD93F9; margin-right: 16px;"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL" style="color: #BD93F9; margin-right: 16px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="Docker" title="Docker" style="color: #BD93F9; margin-right: 16px;"/>
 </p>
