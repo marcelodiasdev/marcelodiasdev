@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7A28CB&center=true&multiline=true&repeat=false&width=1000&height=70&lines=Ol%C3%A1!+Sou+Cleyton+Furtado+;Desenvolvedor+Full-Stack+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7A28CB&center=true&multiline=true&repeat=false&width=1000&height=70&lines=Ol%C3%A1!+Sou+Marcelo+Dias+;Desenvolvedor+Front-End+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>Iniciei meus estudos em programação aos 26 anos de idade, sempre fui muito fã da área de tecnologia e como ela impacta a vida das pessoas.</p>
 
