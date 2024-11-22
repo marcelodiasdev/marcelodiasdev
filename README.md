@@ -1,40 +1,56 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7A28CB&center=true&multiline=true&repeat=false&width=1000&height=70&lines=Ol%C3%A1!+Sou+Cleyton+Furtado+;Desenvolvedor+Full-Stack+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+<p>Iniciei meus estudos em programação aos 26 anos de idade, sempre fui muito fã da área de tecnologia e como ela impacta a vida das pessoas.</p>
 
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marcelo Dias </h1>
-<h3 align="center"> Development Internr</h3>
+<p>Desde 2029 meu foco tem sido o desenvolvimento de software utilizando Javascript, Typescript, Node, React.</p> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodiasdev&show_icons=true&theme=highcontrast)
+<p>Hoje atuou como Desenvolvedor Front End.</p>
 
+***************
 
+<div align="center">
+  <a href="https://github.com/cleytonRR">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cleytonRR&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonRR&layout=compact&langs_count=7&theme=shades-of-purple"/>
+</div>
 
+***************
+<h2 align="center">Linguagens e Ferramentas</h2>
+  <h3 align="center">Front End</h3>
+  <p align="center">
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/javascript"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/typescript"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/react"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/redux"/>      
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/mui"/>  
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/tailwindcss"/>   
+  </p>  
 
-<a href="https://www.linkedin.com/in/marcelosilvadias/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <h3 align="center" style="margin-top: 32px;">Back End</h3>
+  <p align="center">
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/nodedotjs/"/> 
+  </p>  
 
+  <h3 align="center" style="margin-top: 32px;">Testes</h3>
+  <p align="center"> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/jest"/>  
+  </p>  
 
-- 📫 How to reach me **marceloobig@outlook.com**
+  <h3 align="center" style="margin-top: 32px;">Ferramentas</h3>
+  <p align="center">
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/figma/"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/jira/"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/git" />  
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/visualstudiocode"/>    
+  </p>  
+</h2>
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- </div> 
+***************
 
+<h2 align="center">Entre em contato:</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/marcelosilvadias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1C6B94?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
 
+***************
 
-<!--
-**marcelodiasdev/marcelodiasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
