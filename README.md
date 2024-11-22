@@ -11,10 +11,9 @@
 
 <div align="center">
  <a href="https://github.com/marcelodiasdev">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cleytonRR&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonRR&layout=compact&langs_count=7&theme=blue"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marcelodiasdev&show_icons=true&theme=default&title_color=AEC6CF&icon_color=AEC6CF&text_color=4E92B2&bg_color=E0F7FA&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodiasdev&layout=compact&langs_count=7&theme=default&title_color=AEC6CF&icon_color=AEC6CF&text_color=4E92B2&bg_color=E0F7FA"/>
 </a>
-
 </div>
 
 ***************
