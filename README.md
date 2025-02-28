@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" title="Redux" style="color: #BD93F9; margin: 0 12px 0 0;"/>
   <img src="https://github.com/up-for-grabs/up-for-grabs.net/assets/139565234/53ea0a94-f08f-422f-8b88-9cee8737c53e" height="40" alt="Next.js" title="Next.js" style="color: #BD93F9; margin: 0 12px 0 0;"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL" style="color: #BD93F9; margin: 0 12px 0 0;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Golang" title="Golang" style="color: #BD93F9; margin: 0 12px 0 0;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="Docker" title="Docker" style="color: #BD93F9; margin: 0 12px 0 0;"/>
 </p>
 
