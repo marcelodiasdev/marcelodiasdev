@@ -49,7 +49,7 @@
 <h3 align="center" style="margin-top: 32px; color: #BD93F9;">Testes</h3>
 <p align="center" style="background-color: #282A36; padding: 10px; border-radius: 8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest" style="color: #BD93F9; margin-right: 16px;"/>
-  <img src="https://cdn.cypress.io/cypress-logo.svg" height="40" alt="Cypress" title="Cypress" style="color: #BD93F9; margin-left: 16px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Cypress_logo.svg" height="40" alt="Cypress" title="Cypress" style="color: #BD93F9; margin-left: 16px;"/>
 </p>
 
 <h3 align="center" style="margin-top: 32px; color: #BD93F9;">Ferramentas</h3>
