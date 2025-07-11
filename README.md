@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=300&color=B287D3&center=true&multiline=true&repeat=false&width=1000&height=70&lines=Hello!+I'm+Marcelo+Dias+;Front-End+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=300&color=B287D3&center=true&multiline=true&repeat=false&width=1000&height=70&lines=Hello!+I'm+Marcelo+Dias;Front-End+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 
 <h2>🇧🇷 pt-BR</h2>
 <p>Iniciei meus estudos em programação aos 26 anos de idade. Sempre fui muito fã da área de tecnologia e de como ela impacta a vida das pessoas.</p>
