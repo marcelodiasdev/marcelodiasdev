@@ -4,7 +4,7 @@
 <h2>🇧🇷</h2>
 <p>Iniciei meus estudos em programação aos 26 anos de idade. Sempre fui muito fã da área de tecnologia e de como ela impacta a vida das pessoas.</p>
 
-<p>Desde 2021, meu foco tem sido o desenvolvimento de software utilizando JavaScript, TypeScript, Node, React, entre outras tecnologias.</p>
+<p>Desde 2020, meu foco tem sido o desenvolvimento de software utilizando JavaScript, TypeScript, Node, React, entre outras tecnologias.</p>
 
 <p>Atuei em projetos relevantes, incluindo iniciativas do governo, utilizando ferramentas como React, React Hook Form, Material UI, Yup e testes automatizados.</p>
 
@@ -15,7 +15,7 @@
 <h2>🇺🇸</h2>
 <p>I started studying programming at the age of 26. I've always been passionate about technology and how it impacts people's lives.</p>
 
-<p>Since 2021, my focus has been on software development using JavaScript, TypeScript, Node, React, and other technologies.</p>
+<p>Since 2020, my focus has been on software development using JavaScript, TypeScript, Node, React, and other technologies.</p>
 
 <p>I’ve worked on important projects, including government initiatives, using tools like React, React Hook Form, Material UI, Yup, and automated testing.</p>
 
