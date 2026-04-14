@@ -1,25 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=300&color=B287D3&center=true&multiline=true&repeat=false&width=1000&height=70&lines=Hello!+I'm+Marcelo+Dias;Front-End+Developer+FullStack+%F0%9F%9A%80)](https://git.io/typing-svg) 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=300&color=B287D3&center=true&multiline=true&repeat=false&width=1000&height=70&lines=Frontend+Engineer+|+Fullstack+|+React+|+Next.js+|+Golang)](https://git.io/typing-svg)
 
 <h2>🇧🇷</h2>
-<p>Iniciei meus estudos em programação aos 26 anos de idade. Sempre fui muito fã da área de tecnologia e de como ela impacta a vida das pessoas.</p>
+<p>Desenvolvedor de Software com 5 anos de experiência e formação em Gestão de TI. Sólida atuação no ecossistema React e Next.js, focado em entregar interfaces de alta performance.</p>
 
-<p>Desde 2020, meu foco tem sido o desenvolvimento de software utilizando JavaScript, TypeScript, Node, React, Next, entre outras tecnologias.</p>
-
-<p>Atuei em projetos relevantes, incluindo iniciativas do governo, utilizando ferramentas como React, React Hook Form, Material UI, Yup e testes automatizados.</p>
-
-<p>Hoje atuo como Desenvolvedor Front-End, focado em criar interfaces modernas, acessíveis e funcionais.</p>
+<p>Atualmente, atuo na unidade AI/R da Compass UOL no projeto Zamp (Burger King, Starbucks e Popeyes) com arquiteturas monorepo de alto impacto. Em paralelo, expando meus conhecimentos para Fullstack com Golang, aprofundando em APIs, observabilidade e monitoramento de sistemas.</p>
 
 <hr />
 
 <h2>🇺🇸</h2>
-<p>I started studying programming at the age of 26. I've always been passionate about technology and how it impacts people's lives.</p>
+<p>Software Developer with 5 years of experience and a degree in IT Management. Solid expertise in the React and Next.js ecosystem, focused on delivering high-performance interfaces.</p>
 
-<p>Since 2020, my focus has been on software development using JavaScript, TypeScript, Node, React, Next, and other technologies.</p>
-
-<p>I’ve worked on important projects, including government initiatives, using tools like React, React Hook Form, Material UI, Yup, and automated testing.</p>
-
-<p>Today, I work as a Front-End Developer, focused on building modern, accessible, and functional user interfaces.</p>
+<p>Currently, I work at Compass UOL's AI/R unit on the Zamp project (Burger King, Starbucks, and Popeyes) with high-impact monorepo architectures. Meanwhile, I am expanding my skills towards Fullstack with Golang, diving into APIs, observability, and system monitoring.</p>
 
 ***************
 
@@ -31,39 +22,31 @@
 </div>
 
 ***************
-<h3 align="center" style="margin-top: 32px; color: #BD93F9;">Tecnologias com as quais tenho experiência:</h3>
-<p align="center" style="background-color: #282A36; padding: 8px; border-radius: 8px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML" style="color: #BD93F9; margin: 0 12px 0 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS" style="color: #BD93F9; margin: 0 12px 0 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI" title="Material UI" style="color: #BD93F9; margin: 0 12px 0 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Javascript" title="Javascript" style="color: #BD93F9; margin: 0 12px 0 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="Typescript" title="Typescript" style="color: #BD93F9; margin: 0 12px 0 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" style="color: #BD93F9; margin: 0 12px 0 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS" title="ReactJS" style="color: #BD93F9; margin: 0 12px 0 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" title="Redux" style="color: #BD93F9; margin: 0 12px 0 0;"/>
-  <img src="https://github.com/up-for-grabs/up-for-grabs.net/assets/139565234/53ea0a94-f08f-422f-8b88-9cee8737c53e" height="40" alt="Next.js" title="Next.js" style="color: #BD93F9; margin: 0 12px 0 0;"/>
+
+<h3 align="center" style="margin-top: 32px; color: #BD93F9;">Tecnologias e Stack:</h3>
+<p align="center" style="background-color: #282A36; padding: 12px; border-radius: 8px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="Typescript" title="Typescript" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS" title="ReactJS" style="margin: 0 10px;"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" height="40" alt="Next.js" title="Next.js" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go" title="Go" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="Postgres" title="Postgres" style="margin: 0 10px;"/>
+  <img src="https://cdn.simpleicons.org/amazondynamodb/C20813" height="40" alt="DynamoDB" title="DynamoDB" style="margin: 0 10px;"/>
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="AWS" title="AWS" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes" style="margin: 0 10px;"/>
 </p>
 
-
-
-<h3 align="center" style="margin-top: 32px; color: #BD93F9;">Testes</h3>
+<h3 align="center" style="margin-top: 32px; color: #BD93F9;">Testes e Qualidade</h3>
 <p align="center" style="background-color: #282A36; padding: 10px; border-radius: 8px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest" style="color: #BD93F9; margin-right: 16px;"/>
-  <img src="https://cdn.simpleicons.org/cypress/059647" height="40" alt="Cypress" title="Cypress" style="color: #BD93F9; margin-left: 16px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest" style="margin: 0 16px;"/>
+  <img src="https://cdn.simpleicons.org/cypress/059647" height="40" alt="Cypress" title="Cypress" style="margin: 0 16px;"/>
+  <img src="https://cdn.simpleicons.org/vitest/6E9F18" height="40" alt="Vitest" title="Vitest" style="margin: 0 16px;"/>
 </p>
-
-<h3 align="center" style="margin-top: 32px; color: #BD93F9;">Ferramentas</h3>
-<p align="center" style="background-color: #282A36; padding: 10px; border-radius: 8px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" style="color: #BD93F9; margin-right: 16px;"/>
-</p>  
-<
 
 ***************
 
 <h2 align="center">Entre em contato:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/marcelosilvadias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1C6B94?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcelosilvadias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1C6B94?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ***************
-
