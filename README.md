@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=300&color=B287D3&center=true&multiline=true&repeat=false&width=1000&height=70&lines=Frontend+Engineer+|+Fullstack+|+React+|+Next.js+|+Golang)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=300&color=B287D3&center=true&multiline=true&repeat=false&width=1000&height=70&lines=Fullstack+|+React+|+Next.js+|+Golang+|+Python)](https://git.io/typing-svg)
 
 <h2>🇧🇷</h2>
 <p>Desenvolvedor de Software com 5 anos de experiência e formação em Gestão de TI. Sólida atuação no ecossistema React e Next.js, focado em entregar interfaces de alta performance.</p>
