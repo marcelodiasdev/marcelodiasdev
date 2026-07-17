@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=300&color=B287D3&center=true&multiline=true&repeat=false&width=1000&height=70&lines=Fullstack+|+React+|+Next.js+|+Golang+|+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=300&color=B287D3&center=true&multiline=true&repeat=false&width=1000&height=70&lines=Frontend+|+React+|+Next.js+|+Node+|+Python)](https://git.io/typing-svg)
 
 <h2>🇧🇷</h2>
 <p>Desenvolvedor de Software com 5 anos de experiência e formação em Gestão de TI. Sólida atuação no ecossistema React e Next.js, focado em entregar interfaces de alta performance.</p>
 
-<p>Atualmente, atuo na unidade AI/R da Compass UOL no projeto Zamp (Burger King, Starbucks e Popeyes) com arquiteturas monorepo de alto impacto. Em paralelo, expando meus conhecimentos para Fullstack com Golang e Python, aprofundando em APIs, observabilidade, monitoramento e AI</p>
+<p>Atualmente, atuo na unidade AI/R da Compass UOL no projeto Zamp (Burger King, Starbucks e Popeyes) com arquiteturas monorepo de alto impacto. Em paralelo, expando meus conhecimentos para Fullstack com Node, Golang e Python, aprofundando em APIs, observabilidade, monitoramento e AI</p>
 
 <hr />
 
