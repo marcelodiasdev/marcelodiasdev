@@ -32,12 +32,6 @@
   <img src="https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="35" alt="Testify" title="Testify (Go)" style="margin: 0 25px; vertical-align: middle;"/>
 </p>
 
-<h3 align="center" style="margin-top: 32px; color: #BD93F9;">GitHub Stats</h3>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcelodiasdev&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodiasdev&layout=compact&hide_border=true&theme=dracula" alt="Top languages" />
-</p>
-
 ---
 
 <h2 align="center">Get in touch</h2>
