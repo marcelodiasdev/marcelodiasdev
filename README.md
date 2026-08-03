@@ -4,16 +4,6 @@
 
 <p>Currently, I work at Compass UOL's AI/R unit on the Zamp project (Burger King, Starbucks, and Popeyes) with high-impact monorepo architectures. Meanwhile, I am expanding my skills towards Fullstack with Golang and Python, diving into APIs, observability, system monitoring and AI.</p>
 
-***************
-
-<div align="center">
- <a href="https://github.com/marcelodiasdev">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marcelodiasdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodiasdev&layout=compact&langs_count=7&theme=dracula"/>
-</a>
-</div>
-
-***************
 
 <h3 align="center" style="margin-top: 32px; color: #BD93F9;">Tecnologias e Stack:</h3>
 <p align="center" style="background-color: #282A36; padding: 20px; border-radius: 8px;">
