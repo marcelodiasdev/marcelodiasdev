@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=300&color=B287D3&center=true&multiline=true&repeat=false&width=1000&height=70&lines=Frontend+|+React+|+Next.js+|+TypeScript+|+Performance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=300&color=B287D3&center=true&multiline=true&repeat=false&width=1000&height=70&lines=Fullstack+%7C+React+%7C+Next.js+%7C+Python+%7C+System+Design)](https://git.io/typing-svg)
 
 <p>Fullstack Engineer with 5 years of experience, specialized in the React and Next.js ecosystem and focused on high-performance, accessible interfaces.</p>
 
@@ -8,8 +8,8 @@
 
 <p>
 🔭 &nbsp;<b>Exploring:</b> applied AI on the frontend (AI SDK, streaming UIs, structured output), Python backend & LLMs<br/>
-🌱 &nbsp;<b>Leveling up:</b> FastAPI, Django, PostgreSQL and scalable backend architecture<br/>
-💬 &nbsp;<b>Ask me about:</b> React, Next.js, Python, FastAPI, frontend architecture
+🌱 &nbsp;<b>Leveling up:</b> FastAPI, Django, PostgreSQL, System Design and scalable backend architecture<br/>
+💬 &nbsp;<b>Ask me about:</b> React, Next.js, Python, FastAPI, System Design, frontend architecture
 </p>
 
 <h3 align="center">Tech Stack</h3>
@@ -59,7 +59,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="40" alt="Vitest" title="Vitest"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.8net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="Playwright" title="Playwright"/>
 </p>
